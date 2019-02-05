@@ -37,8 +37,4 @@ $(document).ready(function () {
 
 
 
-}) // ----------END OF DOC----------```
-Message Input
-
-
-Message Tywin Pham
+})
